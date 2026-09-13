@@ -4,7 +4,7 @@ Portable desktop utility with possible-exit maps, bright exit symbols, a crossha
 
 ## Download and run
 
-Download the ZIP from [Releases](../../releases/tag/v1.1.0-beta), extract the whole folder, then open **Halloween Game Tools Test.exe** on Windows 10/11. Codex and an installer are not required. Keep the included files together.
+Download the ZIP from [Releases](https://github.com/googoogaagaa23/halloween-game-tools-download/releases), extract the whole folder, then open **Halloween Game Tools Test.exe** on Windows 10/11. Codex and an installer are not required. Keep the included files together.
 
 - Hold **Tab** or Xbox **View / Select** to show the map overlay; release to hide it.
 - **Ctrl+Alt+G** opens settings. Adjust the overlay size/alignment for your display.
