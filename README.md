@@ -15,3 +15,6 @@ Download the ZIP from [Releases](https://github.com/googoogaagaa23/halloween-gam
 Recognition is a beta feature tested with reference map names, generated arrow scenes, and a supplied real player-marker screenshot. Version 1.1.2 fixes thin gray/ivory arrow outlines; the real reference passes at four quarter-turn rotations and three image scales. Detection accuracy, display compatibility, and controller behavior still need verification in actual Halloween gameplay. Similar icons can produce missed or incorrect matches; the feature can be turned off. This app does not read game memory or modify game files. Captured images stay in memory.
 
 The ZIP has fresh settings and contains no creator's personal app state or logs. The app is unofficial. Possible-exit map images are by **DeftyConch**; creator attribution and source links are included in RESEARCH.md and preserved on the images. Possible locations are not a guarantee of active exits in a round.
+
+
+Version 1.1.3 allows holding Shift to sprint while using the Tab map or combined macro. If Halloween runs as administrator, opening the tools requests matching permissions through normal Windows UAC approval. If the game starts later, click **Fix permissions** in setup. Cancelling approval keeps the app running. The macro starts paused and retains F9/focus/map stop behavior.
